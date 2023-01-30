@@ -1,0 +1,70 @@
+# Projeto_Integrador_Academiabody{
+    background-color:  #efecea;
+    margin: 0%;
+}
+
+.container{
+    background-color: #d9d9d9;
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.form{
+    width: 100%;
+    background-color: #d9d9d9;
+}
+
+input{
+    width: 50%;
+    padding: 6px 10px;
+    margin: 3px 0;
+    box-sizing: border-box;
+}
+
+.fonte{
+    font-family: 'Manrope', sans-serif;
+}
+
+.column1{
+    float: left;
+    width: 45%;
+    margin-left: 60px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.column2{
+    float: left;
+    width: 45%;
+    margin-top: 15px;
+}
+
+.fonte:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.fonte button{
+    background-color: 90ee90;
+    float: right;
+    margin-right: 20px;
+    border: none;
+    padding: 9px;
+    border-radius: 0px;
+    font-size: 15px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+p{
+    font-family: 'Noto Sans', sans-serif;font-family: 'Manrope', sans-serif;
+    margin-left: 50px;
+    font-size:larger;
+}
+
+hr{
+    border: 1px solid black;
+    margin-left: 50px;
+}
